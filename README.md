@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey I'm JP Chowdary
+Born in India • Living in Hyderabad.
 
-<!--
-**Jay-Jasti/Jay-Jasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 automation 🚀 GitOps ☸ kubernetes 🐧 linux 🕹️ emulation 🧐 QA 🖥 SRE
 
-Here are some ideas to get you started:
+DevOps Engineer with a passion for IT and practising streamlining software delivery, leveraging expertise in cloud infrastructure, CI/CD pipelines, and containerization to drive innovation and efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me 🤓
+🎓 10 years of experience in DevOps and Cloud Technologies
+🔍 Continuosly learning and exploring tools to enhance software delivery in the fast-paced DevOps world.
+📫 Feel free to reach out to me at jasti.dba@gmail.com for collaboration, discussions, or inquiries.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,ansible,terraform,windows,linux,oracle,sql,kubernetes,bash,powershell,git,jenkins=3)](https://skillicons.dev)
